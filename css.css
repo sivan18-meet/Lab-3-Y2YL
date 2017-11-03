@@ -1,0 +1,37 @@
+h1{
+	font-size: 50px
+	text-transform: uppercase;
+	color: #3b3834;
+}
+
+p{
+	text-align: center;
+	background-color: #ccc5ba;
+	color: #252422; 
+
+}
+
+img{
+	border-radius: 30px;
+	height:30%;
+	width: 30%;
+
+}
+
+body{
+	font-style: Arial;
+	background-image: url("bg1.jpg");
+
+}
+
+.color {
+	color: #477998;
+}
+
+a:hover{
+	 background-color: #C4D6B0;
+}
+
+a{
+	color: #242522
+}
